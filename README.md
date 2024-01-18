@@ -1,1 +1,3 @@
 # javascript-typescript
+
+Typescript and Javascript fundamentals...
